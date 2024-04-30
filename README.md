@@ -88,3 +88,21 @@ In today's rapidly evolving digital landscape, the demand for professionals equi
 🎯 **Results:** 
 
 This analysis explores in-demand data tech skills and demographic profiles, offering insights into key competencies shaping the data-driven landscape. By identifying core technical skills sought after by employers and providing data-driven recommendations, we empower professionals with valuable insights for career advancement.
+
+<br>
+
+## Certificates & Courses
+
+- IBM - Data Analyst Professional Certificate | [View Certificate](https://github.com/buddymar/Certificates/tree/main/IBM%20-%20Data%20Analyst%20Professional%20Certificate#readme)
+- DQLab - Data Analyst Python Track | [View Certificate](https://github.com/buddymar/Certificates/blob/main/DQLab%20-%20Data%20Analyst%20Python%20Track/README.md)
+- HackerRank - SQL Certificates & Badge | [View Certificate](https://github.com/buddymar/Certificates/blob/main/HackerRank%20-%20SQL%20Certificates%20%26%20Badge/README.md)
+- Stanford - Machine Learning | [View Certificate](https://github.com/buddymar/Certificates/blob/main/Stanford%20-%20Machine%20Learning/README.md)
+- DeepLearning.AI - Neural Networks and Deep Learning | [View Certificate](https://github.com/buddymar/Certificates/blob/main/DeepLearning.AI%20-%20Neural%20Networks%20and%20Deep%20Learning/README.md)
+
+<br>
+
+## Contacts
+
+- LinkedIn: [limbongbuddy](https://www.linkedin.com/in/limbongbuddy/)
+- Twitter: [@buddymartin10](https://twitter.com/buddymartin10)
+- Email: [limbongbuddy@gmail.com](mailto:limbongbuddy@gmail.com)
