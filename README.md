@@ -7,7 +7,6 @@
 This portofolio serves as a snapshot of my journey in the data field, showcasing my skills and expertise in data analysis. It provides a glimpse into my passion for uncovering insights and leveraging data to drive informed decision-making.
 
 ## Table of contents
-- [About Me]()
 - [Portfolio Projects]()
 - [Certificates & Courses]()
 - [Contacts]()
