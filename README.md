@@ -11,9 +11,9 @@ This portofolio serves as a snapshot of my journey in the data field, showcasing
 <br>
 
 ## Table of Contents
-- [Portfolio Projects]()
-- [Certificates & Courses]()
-- [Contacts]()
+- [Portfolio Projects](https://github.com/buddymar/Data-Portofolio/tree/main#portfolio-projects)
+- [Certificates & Courses](https://github.com/buddymar/Data-Portofolio/tree/main?tab=readme-ov-file#certificates--courses)
+- [Contacts](https://github.com/buddymar/Data-Portofolio/tree/main?tab=readme-ov-file#contacts)
 
 <br>
 
