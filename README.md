@@ -11,13 +11,13 @@ This portofolio serves as a snapshot of my journey in the data field, showcasing
 <br>
 
 ## Table of Contents
-- [Portfolio Projects](https://github.com/buddymar/Data-Portofolio/tree/main#portfolio-projects)
+- [Portofolio Projects](https://github.com/buddymar/Data-Portofolio/tree/main#portofolio-projects)
 - [Certificates & Courses](https://github.com/buddymar/Data-Portofolio/tree/main?tab=readme-ov-file#certificates--courses)
 - [Contacts](https://github.com/buddymar/Data-Portofolio/tree/main?tab=readme-ov-file#contacts)
 
 <br>
 
-## Portfolio Projects
+## Portofolio Projects
 
 ### 🏨 Unveiling Hotel Performance: An In-Depth Analysis of Reservation Cancellations
 
@@ -36,6 +36,25 @@ Our analysis delves into hotel performance and reservation cancellations in Denp
 This project dives into Denpasar's hotel industry, analyzing performance metrics and reservation trends. It offers data-driven recommendations for revenue optimization and reservation cancellation, alongside a user-friendly dashboard to visualize key insights and KPI.
 
 <br>
+
+🏍️ Approval Rate Improvement Project, Line of Business – New Motorcycle Credit at Praya Branch
+
+[Project Link](https://github.com/buddymar/Approval-Rate-Improvement/blob/main/README.md) | [Presentation Deck Link](https://github.com/buddymar/Approval-Rate-Improvement/blob/bebb499fe22f60ff107e35d68bff7ed0783f900f/Project%20Approval%20Rate%20Improvement%20-%20Praya%20Branch.pdf)
+
+**Technical Skills: `Excel`, `Python`, `PowerPoint`, `AppSheet`, `NumPy`, `Pandas`, `Matplotlib`, `Seaborn`**
+
+<p align="center">
+    <kbd> <img width="1000" alt="mvp banner" src="https://raw.githubusercontent.com/buddymar/Approval-Rate-Improvement/main/assets/showroom_motor.jpg"> </kbd> <br>
+</p>
+
+In the dynamic landscape of the motorcycle financing industry, optimizing approval rates is paramount to ensuring business success and customer satisfaction. Leveraging the DMAIC (Define, Measure, Analyze, Improve, Control) framework, this project aimed to enhance approval rates within the new motorcycle credit line of business at Praya Branch. By meticulously analyzing the existing process, identifying pain points, and implementing targeted improvements, we endeavored to streamline operations, mitigate risks, and elevate customer experience. This introduction encapsulates the essence of a rigorous methodology employed to drive tangible enhancements in approval rates, fostering organizational efficiency and excellence in service delivery.
+
+🎯 **Results:** 
+
+This project resulted in an enhanced verification process that ensures consumer verification will be more detailed and accurate, leading to desirable approval rates. The benefits of this improved verification process include profit growth, cost savings, increased customer satisfaction, and enhanced dealer satisfaction.
+
+<br>
+
 
 ### 🏀 Unlocking the MVP Formula: Analyzing Player and Team Metrics for NBA MVP Predictions
 
