@@ -1,4 +1,4 @@
-# <p align="center">Buddy Martin - Data Portfolio </p>
+# <p align="center">Buddy Martin - Data Portofolio </p>
 
 ## About Me
 
