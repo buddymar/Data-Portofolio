@@ -35,7 +35,7 @@ This project dives into Denpasar's hotel industry, analyzing performance metrics
 
 <br>
 
-# 🏍️ Approval Rate Improvement Project, Line of Business – New Motorcycle Credit at Praya Branch
+### 🏍️ Approval Rate Improvement Project, Line of Business – New Motorcycle Credit at Praya Branch
 
 [Project Link](https://github.com/buddymar/Approval-Rate-Improvement/blob/main/README.md) | [Presentation Deck Link](https://github.com/buddymar/Approval-Rate-Improvement/blob/bebb499fe22f60ff107e35d68bff7ed0783f900f/Project%20Approval%20Rate%20Improvement%20-%20Praya%20Branch.pdf)
 
