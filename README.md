@@ -49,7 +49,7 @@ In the dynamic landscape of the motorcycle financing industry, optimizing approv
 
 🎯 **Results:** 
 
-This project resulted in an enhanced verification process that ensures consumer verification will be more detailed and accurate, leading to desirable approval rates. The benefits of this improved verification process include profit growth, cost savings, increased customer satisfaction, and enhanced dealer satisfaction.
+This project resulted in an enhanced verification process that ensures consumer verification will be more detailed and accurate, **leading to an 8.12% increase in approval rates compared to the previous month before the project**. The benefits of this improved verification process include profit growth (8-9% compared to the previous month), cost savings, increased customer satisfaction, and enhanced dealer satisfaction.
 
 <br>
 
