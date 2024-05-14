@@ -17,9 +17,11 @@ This portofolio serves as a snapshot of my journey in the data field, showcasing
 
 ## Portofolio Projects
 
-### 🏨 Unveiling Hotel Performance: An In-Depth Analysis of Reservation Cancellations
+## 🏨 Unveiling Hotel Performance: An In-Depth Analysis of Reservation Cancellations
 
 [Project Link](https://github.com/buddymar/Hotel-Reservation-Cancellation/blob/main/README.md) | [Dashboard Link](https://public.tableau.com/views/HotelReservationandCancelation/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
+
+**Project Type:** *Personal Project*
 
 **Technical Skills: `Python`, `MySQL`, `Tableau`, `Pandas`, `NumPy`, `Matplotlib`, `Seaborn`**
 
@@ -35,9 +37,11 @@ This project dives into Denpasar's hotel industry, analyzing performance metrics
 
 <br>
 
-### 🏍️ Approval Rate Improvement Project, Line of Business – New Motorcycle Credit at Praya Branch
+## 🏍️ Approval Rate Improvement Project, Line of Business – New Motorcycle Credit at Praya Branch
 
 [Project Link](https://github.com/buddymar/Approval-Rate-Improvement/blob/main/README.md) | [Presentation Deck Link](https://github.com/buddymar/Approval-Rate-Improvement/blob/bebb499fe22f60ff107e35d68bff7ed0783f900f/Project%20Approval%20Rate%20Improvement%20-%20Praya%20Branch.pdf)
+
+**Project Type:** *Work Project*
 
 **Technical Skills: `Excel`, `Python`, `PowerPoint`, `AppSheet`, `NumPy`, `Pandas`, `Matplotlib`, `Seaborn`**
 
@@ -54,9 +58,11 @@ This project resulted in an enhanced verification process that ensures consumer 
 <br>
 
 
-### 🏀 Unlocking the MVP Formula: Analyzing Player and Team Metrics for NBA MVP Predictions
+## 🏀 Unlocking the MVP Formula: Analyzing Player and Team Metrics for NBA MVP Predictions
 
 [Project Link](https://github.com/buddymar/NBA-MVP-Predictions/blob/main/README.md) | [Dashboard Link](https://public.tableau.com/views/NBAMVP_17115876738080/LEADERBOARD?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
+
+**Project Type:** *Personal Project*
 
 **Technical Skills: `Python`, `Tableau`, `Pandas`, `NumPy`, `sklearn`, `Matplotlib`, `Seaborn`, `BeautifulSoup`, `SHAP`**
 
@@ -72,9 +78,11 @@ In our NBA MVP analysis project, we meticulously examined historical MVP data to
 
 <br>
 
-### 💻 Cracking the Code: Predicting Laptop Prices with Analysis and Machine Learning Model
+## 💻 Cracking the Code: Predicting Laptop Prices with Analysis and Machine Learning Model
 
 [Project Link](https://github.com/buddymar/Laptop-Price-Prediction/blob/main/README.md)
+
+**Project Type:** *Personal Project*
 
 **Technical Skills: `Python`, `Pandas`, `NumPy`, `sklearn`, `Matplotlib`, `Seaborn`, `SHAP`**
 
@@ -90,9 +98,11 @@ This project delves into the intricate relationship between laptop components an
 
 <br>
 
-### 📊 In-Demand Data Tech Skills: A Closer Look
+## 📊 In-Demand Data Tech Skills: A Closer Look
 
 [Project Link](https://github.com/buddymar/In-Demand-Data-Tech-Skills/blob/main/README.md)
+
+**Project Type:** *Certification Project*
 
 **Technical Skills: `Python`, `Cognos Dashboard`, `Excel`, `Pandas`, `NumPy`, `Matplotlib`, `Seaborn`**
 
