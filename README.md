@@ -37,6 +37,26 @@ This project dives into Denpasar's hotel industry, analyzing performance metrics
 
 <br>
 
+## 🚲 Cyclistic: An In-Depth Analysis of Bike-Share Performance & Growth
+
+[Project Link](https://github.com/buddymar/Cyclistic-Bike-Share-Performance/blob/main/README.md) | [Dashboard Link](https://public.tableau.com/views/Cyclist_Dash/MainDash?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
+
+**Project Type:** *Certification Project*
+
+**Technical Skills: `Google BigQuery`, `Tableau`**
+
+<p align="center">
+    <kbd> <img width="1000" alt="mvp banner" src="https://raw.githubusercontent.com/buddymar/Cyclistic-Bike-Share-Performance/main/assets/cyc%20cover2.jpg"> </kbd> <br>
+</p>
+
+Cyclistic has partnered with the city of New York to provide shared bikes. Currently, there are bike stations located throughout Manhattan and neighboring boroughs. Customers are able to rent bikes for easy travel between stations at these locations. Cyclistic’s Customer Growth Team is creating a business plan for next year. The team wants to understand how their customers are using their bikes; their top priority is identifying customer demand at different station locations.
+
+🎯 **Results:** 
+
+This project dives into Cyclistic bike-sharing performance in New York, analyzing performance metrics such as total trips and total duration. It offers user-friendly dashboard to visualize Cyclistic performance based on key metrics, station location, user type, time unit, etc. This dashboard will be used to assist stakeholders to make a data-driven decisions.
+
+<br>
+
 ## 🏍️ Approval Rate Improvement Project, Line of Business – New Motorcycle Credit at Praya Branch
 
 [Project Link](https://github.com/buddymar/Approval-Rate-Improvement/blob/main/README.md) | [Presentation Deck Link](https://github.com/buddymar/Approval-Rate-Improvement/blob/bebb499fe22f60ff107e35d68bff7ed0783f900f/Project%20Approval%20Rate%20Improvement%20-%20Praya%20Branch.pdf)
@@ -121,6 +141,7 @@ This analysis explores in-demand data tech skills and demographic profiles, offe
 ## Certificates & Courses
 
 - IBM - Data Analyst Professional Certificate | [View Certificate](https://github.com/buddymar/Certificates/tree/main/IBM%20-%20Data%20Analyst%20Professional%20Certificate#readme)
+- Google - Google Business Intelligence Professional | [View Certificate](https://github.com/buddymar/Certificates/blob/main/Google%20-%20Business%20Intelligence%20Certificate/README.md)
 - DQLab - Data Analyst Python Track | [View Certificate](https://github.com/buddymar/Certificates/blob/main/DQLab%20-%20Data%20Analyst%20Python%20Track/README.md)
 - HackerRank - SQL Certificates & Badge | [View Certificate](https://github.com/buddymar/Certificates/blob/main/HackerRank%20-%20SQL%20Certificates%20%26%20Badge/README.md)
 - Stanford - Machine Learning | [View Certificate](https://github.com/buddymar/Certificates/blob/main/Stanford%20-%20Machine%20Learning/README.md)
