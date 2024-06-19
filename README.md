@@ -141,7 +141,7 @@ This analysis explores in-demand data tech skills and demographic profiles, offe
 ## Certificates & Courses
 
 - IBM - Data Analyst Professional Certificate | [View Certificate](https://github.com/buddymar/Certificates/tree/main/IBM%20-%20Data%20Analyst%20Professional%20Certificate#readme)
-- Google - Google Business Intelligence Professional | [View Certificate](https://github.com/buddymar/Certificates/blob/main/Google%20-%20Business%20Intelligence%20Certificate/README.md)
+- Google - Business Intelligence Professional | [View Certificate](https://github.com/buddymar/Certificates/blob/main/Google%20-%20Business%20Intelligence%20Certificate/README.md)
 - DQLab - Data Analyst Python Track | [View Certificate](https://github.com/buddymar/Certificates/blob/main/DQLab%20-%20Data%20Analyst%20Python%20Track/README.md)
 - HackerRank - SQL Certificates & Badge | [View Certificate](https://github.com/buddymar/Certificates/blob/main/HackerRank%20-%20SQL%20Certificates%20%26%20Badge/README.md)
 - Stanford - Machine Learning | [View Certificate](https://github.com/buddymar/Certificates/blob/main/Stanford%20-%20Machine%20Learning/README.md)
